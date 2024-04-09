@@ -1,3 +1,7 @@
 textacy
 regex
 nltk
+torch
+transformers
+scipy
+genism
