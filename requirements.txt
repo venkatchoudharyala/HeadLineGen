@@ -1,0 +1,3 @@
+textacy
+regex
+nltk
